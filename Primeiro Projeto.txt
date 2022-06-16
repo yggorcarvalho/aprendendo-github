@@ -1,1 +1,5 @@
 Olá meu nome é Yggor e sou um amante dos estudos e da tecnologia!
+Provavelmente você está vendo minha primeira e simples contribuição, é apenas 
+minha introdução no GitHub, espero estar evoluindo sempre e também quero contribuir
+com a comunidade tecnológica num futuro próximo, sendo em um futuro trabalho em 
+alguma grande e sortuda empresa, seja por algum projeto único e exclusivo de minha criação.
